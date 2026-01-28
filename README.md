@@ -17,5 +17,5 @@ k) Data Width: 1 bajt.
 e) Kratica DMA pomeni Direct Memory Access. DMA nam omogoča neposreden dostop do pomnilnika, brez vmesnega posredovanja CPU-ja.
 
 Komentar:\
-Program deluje po pričakovanjih. S pomočjo programa STM Studio lahko hkrati opazujemo stanja vseh treh potenciometrov. ADC pretvorbe za vse 3 potenciometre se izvajajo ena za drugo na enem ADC-ju. To nam omogoča nastavitev Scan mode, ki spremlja stanja vseh treh potenciometrov in nastavitev Contionus Conversion, ki nemoteno izvaja ADC pretvorbe.
+Program deluje po pričakovanjih. S pomočjo programa STM Studio lahko hkrati opazujemo stanja vseh treh potenciometrov. ADC pretvorbe za vse 3 potenciometre se izvajajo ena za drugo na enem ADC-ju. To nam omogoča nastavitev Scan mode, ki spremlja stanja vseh treh potenciometrov in nastavitev Contionus Conversion, ki poskrbi, da se ADC pretvorbe izvajajo nemoteno.
 

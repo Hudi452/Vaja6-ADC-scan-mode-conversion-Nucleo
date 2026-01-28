@@ -13,6 +13,8 @@ i) Privzeta nastavitev Number of Conversion je 1.\
 j)  tvz = (tvz_cik + 12) / ftakta_pretvorbe = (92,5 + 12) / 1 MHz = 104,5 us\
 k) Data Width: 1 bajt.
 
+3.)\
+e) Kratica DMA pomeni Direct Memory Access. DMA nam omogoča neposreden dostop do pomnilnika, brez vmesnega posredovanja CPU-ja.
 
 
 

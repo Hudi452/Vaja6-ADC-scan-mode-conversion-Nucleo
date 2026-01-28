@@ -12,6 +12,15 @@ NASTAVITVE ZA DMA:\
 SLIKA VEZJA:\
 ![vezje](https://github.com/Hudi452/Vaja6-ADC-scan-mode-conversion-Nucleo/blob/main/Slika%20vezja.jpg)
 
+VIDEO DELOVANJA (1. POTENCIOMETER):\
+![video1](https://github.com/Hudi452/Vaja6-ADC-scan-mode-conversion-Nucleo/blob/main/video1.gif)
+
+VIDEO DELOVANJA (2. POTENCIOMETER):\
+
+
+VIDEO DELOVANJA (3. POTENCIOMETER):\
+
+
 ODGOVORI NA VPRAŠANJA:\
 2.)\
 c) Analogni vhodi:\

@@ -10,7 +10,7 @@ NASTAVITVE ZA DMA:\
 ![DMA](https://github.com/Hudi452/Vaja6-ADC-scan-mode-conversion-Nucleo/blob/main/DMA_konfiguracijsko_okno.PNG)
 
 SLIKA VEZJA:\
-
+![vezje](https://github.com/Hudi452/Vaja6-ADC-scan-mode-conversion-Nucleo/blob/main/Slika%20vezja.jpg)
 
 ODGOVORI NA VPRAŠANJA:\
 2.)\

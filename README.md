@@ -19,7 +19,7 @@ VIDEO DELOVANJA (2. POTENCIOMETER):\
 ![video2](https://github.com/Hudi452/Vaja6-ADC-scan-mode-conversion-Nucleo/blob/main/video2.gif)
 
 VIDEO DELOVANJA (3. POTENCIOMETER):\
-
+![video3](https://github.com/Hudi452/Vaja6-ADC-scan-mode-conversion-Nucleo/blob/main/video3.gif)
 
 ODGOVORI NA VPRAŠANJA:\
 2.)\

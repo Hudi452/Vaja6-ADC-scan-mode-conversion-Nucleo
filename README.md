@@ -1,7 +1,7 @@
 # Vaja6-ADC-scan-mode-conversion-Nucleo
 
 PINOUT MIKROPROCESORJA:\
-[pinout](https://github.com/Hudi452/Vaja6-ADC-scan-mode-conversion-Nucleo/blob/main/Pinout_mikroprocesorja.PNG)
+![pinout](https://github.com/Hudi452/Vaja6-ADC-scan-mode-conversion-Nucleo/blob/main/Pinout_mikroprocesorja.PNG)
 
 ODGOVORI NA VPRAŠANJA:\
 2.)\

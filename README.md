@@ -9,6 +9,9 @@ NASTAVITVE ZA ADC:\
 NASTAVITVE ZA DMA:\
 ![DMA](https://github.com/Hudi452/Vaja6-ADC-scan-mode-conversion-Nucleo/blob/main/DMA_konfiguracijsko_okno.PNG)
 
+SLIKA VEZJA:\
+
+
 ODGOVORI NA VPRAŠANJA:\
 2.)\
 c) Analogni vhodi:\

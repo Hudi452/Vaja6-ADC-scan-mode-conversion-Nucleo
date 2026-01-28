@@ -3,6 +3,9 @@
 PINOUT MIKROPROCESORJA:\
 ![pinout](https://github.com/Hudi452/Vaja6-ADC-scan-mode-conversion-Nucleo/blob/main/Pinout_mikroprocesorja.PNG)
 
+NASTAVITVE ZA ADC:
+![ADC](https://github.com/Hudi452/Vaja6-ADC-scan-mode-conversion-Nucleo/blob/main/ADC_konfiguracijsko_okno.PNG)
+
 ODGOVORI NA VPRAŠANJA:\
 2.)\
 c) Analogni vhodi:\
